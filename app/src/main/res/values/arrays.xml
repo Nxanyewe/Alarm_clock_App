@@ -1,0 +1,11 @@
+<resources>
+    <!-- Other string resources -->
+
+    <string-array name="alarm_tones_array">
+        <item>Default</item>
+        <item>Bell</item>
+        <item>Chime</item>
+        <item>Alert</item>
+        <!-- Add more tones as needed -->
+    </string-array>
+</resources>
